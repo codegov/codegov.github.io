@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:               codegov
 tagline:             '一心做一把剑'
-description:         '带你走进代码世界，那里充满思想、充满设计和充满惊奇. 联系我 <a href="http://weibo.com/u/2422306623?source=blog&is_all=1" target="_blank">@火_爆_了</a>.'
+description:         '带你走进代码世界，那里充满思想、充满设计和充满惊奇。联系我 <a href="http://weibo.com/u/2422306623?source=blog&is_all=1" target="_blank">@火_爆_了</a>.'
 url:                 https://yq.aliyun.com/u/codegov
 baseurl:             ''
 paginate:            5
@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              火爆了
-  url:               https://twitter.com/mdo
+  url:               http://weibo.com/u/2422306623?source=blog&is_all=1
   email:             codegov@qq.com
 
 # Custom vars
