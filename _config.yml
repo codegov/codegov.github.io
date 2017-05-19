@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               火爆了
-tagline:             'A Jekyll theme'
+title:               CodeGov
+tagline:             '一心做一把剑'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              火爆了
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             codegov@qq.com
 
 # Custom vars
 version:             1.0.0
