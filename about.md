@@ -9,5 +9,5 @@ title: 关于我
 
 ## 联系我
 
-* [邮箱](codegov@qq.com).
-* [QQ](1214039455)
+* 邮箱：codegov@qq.com
+* Q Q：1214039455
