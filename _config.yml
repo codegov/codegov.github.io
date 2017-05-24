@@ -10,7 +10,7 @@ tagline:             '一心做一把剑'
 description:         '带你走进代码世界，那里充满思想、充满设计和充满惊奇。联系我 <a href="http://weibo.com/u/2422306623?source=blog&is_all=1" target="_blank">@火_爆_了</a>'
 url:                 https://yq.aliyun.com/u/codegov
 baseurl:             ''
-paginate:            1
+paginate:            2
 
 # About/contact
 author:
